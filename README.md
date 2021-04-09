@@ -1,1 +1,1 @@
-# Coursera-assignment
+# Coursera-assignment-AngularJS
